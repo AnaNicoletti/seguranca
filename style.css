@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #b6bfa1;
+}
+
+.titulo{
+  text-align: center;
+}
+
+button {
+  width: 40px;
+  height: 35px;
+  background-color: #636b52;
+  border-radius: 10px;
+}
+
+#input{
+  border-radius: 10px;
+  height: 20px;
+}
+
+#botao {
+  width: 120px;
+}
+
+#key{
+  text-align: center;
+}
